@@ -1,6 +1,6 @@
 import ContainerBlock from "../components/ContainerBlock";
 import Carousel from "../components/Carousel";
-import Work from "../components/work";
+import Work from "../components/Work";
 import About from "../components/About";
 import Contact from "../components/Contact";
 import { motion } from "framer-motion"
