@@ -1,7 +1,7 @@
 import '../styles/globals.css'
 import { AnimateSharedLayout } from 'framer-motion'
 import { ThemeProvider } from 'next-themes'
-import { useRef } from 'react'
+
 
 function MyApp({ Component, pageProps }) {
 
